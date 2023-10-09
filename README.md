@@ -4,7 +4,7 @@
 
 - 🎒 I am a systems engineering student at Universidad Distrital.
 
-- 🔭 I’m currently working on NodeJs-Express for Backend, React for Frontend.
+- 🔭 I’m currently working on NodeJs-Express for Backend, Angular for Frontend.
 
 - 🌱 I’m currently learning Spring Boot
 
